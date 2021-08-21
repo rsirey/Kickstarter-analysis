@@ -38,6 +38,7 @@ and repetition. Right now, I am most comfortable with uploading files by hand, b
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The success of the theater Kickstarters shows a sigficant spike when launched in May and June, but overall, theater Kickstarters
 show more success than failure with the exception of a December launch date. Not only are the fewest Kickstarters launched in December,
 but the success rate is nearly 1:1, whereas in the peak of success, May, the success rate is over 2:1. Essentially, it can be concluded 
@@ -45,11 +46,13 @@ that a theater Kickstarter is likely to find success almost any month, most so w
 chance for success is, historically, Decemeber.
 
 - What can you conclude about the Outcomes based on Goals?
+
 After conducting the Outcomes based on Goals analysis, it is appears that Kickstarters launched in the play subcaterogy see little to no
 success in the $45,000 goal range and higher. There are varying levels of success in the amounts lower, however once reaching that threshold,
 very few launches met their goal.
 
 - What are some limitations of this dataset?
+
 Limitations of the data set include not knowing who launched them, or if induviduals launched more than one. Knowing if certain induviduals saw 
 more success than others over multiple launches could reveal a new trend in predicting future success of launches. It would also be useful to know
 if the goal of the Kickstarter ended up being an accurate amount to fund the project. We are able to see if goals potentially correlated with outcomes,
