@@ -13,7 +13,9 @@ to have more successful campaigns in the future as her most recent play came clo
 
 ### Analysis of Outcomes Based on Launch Date
 To analyze the outcome results based on launch date, a pivot table:
+
 ![Outcomes_launchdate_PT.png](Resources/Outcomes_launchdate_PT.png) 
+
 was created using the entire data set 
 using filters of Parent Category and year with outcomes in the column and the conversion date by month 
 in the rows. The Parent Category was filtered to only include Kickstarters for the theater. This
