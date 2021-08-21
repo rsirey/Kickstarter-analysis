@@ -22,16 +22,22 @@ in the rows. The Parent Category was filtered to only include Kickstarters for t
 gave a clear numeric table of outcomes (successful, failed, canceled) for each month. To better vizualize
 these results, a line chart was created to show the trends of success status month to month:
 
-![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
+![Theatre_Outcomes_vs_Launch.png](Resources/Theatre_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 To approach the analysis based on goals, buckets had to be created to better grasp the levels of amounts of goals.
-Buckets were created in increments of $5000, ranging from less than $1000 to over $50000. The Countifs() were used to pull the number
+Buckets were created in increments of $5000, ranging from less than $1000 to over $50000:
+
+![Goal_buckets.png](Resources/Goal_buckets.png)
+
+The Countifs() were used to pull the number
 successful, failed, and canceled Kickstarteres in each goal bucket of the play sub category. These number of successful, failed, 
 and canceled Kickstarters for each bucket allowed a total to be summed for each bucket. Once the total was summed, a percentage
 was calculated to show the percentage of successful, failed, and canceled Kickstarters in the play subcategory. The percentages 
 made for a more intutive set of numbers to compare success vs failure. These percentages were then used to created a line chart
 showing the success vs failure percentage across the varying buckets of goals set by Kickstarter campaigns.
+
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 In conducting this analysis, the Excel side was not too challenging. I ran into  some challenges with knowing which categories to put in
