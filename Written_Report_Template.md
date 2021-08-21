@@ -62,6 +62,7 @@ to know if there are shared backers between proejects in a geographical area.
 The data also appears to have significant outliers, which make the Outcomes Based on Goals analysis misleading to an extent.
 
 - What are some other possible tables and/or graphs that we could create?
+
 An additional graph, or rather a repalcement would be for the second analysis. The line chart showing the success rate per goal bucket
 does not take into account the face that the buckets had a wide range of number of Kickstarters total. For instance, the 1000 to 4999 bucket had a total 
 of 534 launches, while the 35000-39999 only had 6, but there success rates are only separated by 5.99%. This chart is misleading in that it 
