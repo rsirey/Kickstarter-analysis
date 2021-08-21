@@ -20,7 +20,9 @@ was created using the entire data set
 using filters of Parent Category and year with outcomes in the column and the conversion date by month 
 in the rows. The Parent Category was filtered to only include Kickstarters for the theater. This
 gave a clear numeric table of outcomes (successful, failed, canceled) for each month. To better vizualize
-these results, a line chart was created to show the trends of success status month to month.
+these results, a line chart was created to show the trends of success status month to month:
+
+![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 To approach the analysis based on goals, buckets had to be created to better grasp the levels of amounts of goals.
